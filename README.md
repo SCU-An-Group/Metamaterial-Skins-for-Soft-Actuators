@@ -1,4 +1,4 @@
-Created by Yichen Pu under the supervision of Dr. Ning An (anning@scu.edu.cn)
+Created by Yichen Pu and Shengwei Zheng under the supervision of Dr. Ning An (anning@scu.edu.cn)
 
 April, 2024
 
