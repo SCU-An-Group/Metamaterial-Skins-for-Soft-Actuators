@@ -6,5 +6,5 @@ This code was originally developed to simulate the bending behavior of a novel c
 
 If you use or edit our work, please cite the appropriate reference:
 
-
-# Auxetic-metamaterial-enables-programmable-bending
+Pu, Y., Zheng, S., Hu, X., Tang, S., & An, N.* (2024). Robotic skins inspired by auxetic metamaterials for programmable bending in soft actuators. Materials & Design, 113334.
+# Metamaterial-skins-for-soft-actuators
